@@ -11,4 +11,10 @@ git init
 
 # 克隆仓库
 git clone git@github.com:geekhall-laoyang/second-repo.git
+
+# 添加暂存
+git add filename / .
+
 ```
+
+
