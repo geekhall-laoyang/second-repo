@@ -4,7 +4,11 @@
 
 ## Git常用命令
 
-克隆仓库
+
 ```bash
+# 初始化仓库
+git init 
+
+# 克隆仓库
 git clone git@github.com:geekhall-laoyang/second-repo.git
 ```
